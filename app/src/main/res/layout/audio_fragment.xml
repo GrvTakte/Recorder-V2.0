@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ListView
+    android:id="@+id/audio_listView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</ListView>
+
+    <TextView
+        android:id="@+id/null_display_audio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Oopps! There is nothing to display, Please record an audio first."
+        android:textColor="#ef4545"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:gravity="center_vertical"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

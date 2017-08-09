@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="google_admob_ad">ca-app-pub-1866624655077358/7522971622</string>
+    <string name="admob_intertial_ad">ca-app-pub-1866624655077358/9563749975</string>
+</resources>
